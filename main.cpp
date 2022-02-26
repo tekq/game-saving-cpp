@@ -25,9 +25,5 @@ int main() {
         save << level << "\n";
     }
 
-    //save << "How to save to file";
-
-
-
     save.close();
 }
